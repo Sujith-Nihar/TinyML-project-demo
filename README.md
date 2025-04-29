@@ -1,5 +1,7 @@
 # TinyML Light vs Dark Image Classifier on OpenMV
 
+![TinyML](https://docs.openmv.io/_images/pinout-openmv-cam-h7-plus-ov5640.png) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 This project implements a tiny machine learning model to classify images as "light" or "dark" using an OpenMV Cam.
 
 - Model trained using TensorFlow
