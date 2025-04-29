@@ -10,11 +10,10 @@ This project implements a tiny machine learning model to classify images as "lig
 ## Project Structure
 - `training/` : Train and quantize model
 - `openmv/` : MicroPython script for OpenMV
-- `sample_images/` : Example images
 
 ## How to Run
 1. Train the model: `python train_model.py`
-2. Copy `tiny_model_quantized.tflite` and `main_openmv.py` to your OpenMV Cam.
+2. Copy `` and `main_openmv.py` to your OpenMV Cam.
 3. See the classification result ("Dark Image" or "Bright Image") in OpenMV IDE.
 
 ## Requirements
